@@ -1,0 +1,26 @@
+#urban_feather_help_widget .ui-sortable-handle {
+	background: #ce0058;
+	color: #FFF;
+}
+
+#urban_feather_help_widget .handlediv {color: #FFF;}
+
+#urban_feather_help_widget a {color: #ce0058;}
+
+#urban_feather_help_widget img {width: 150px;}
+
+#urban_feather_help_widget .accordion-section-title:after,
+#urban_feather_help_widget .handlediv,
+#urban_feather_help_widget .item-edit,
+#urban_feather_help_widget .postbox .handlediv.button-link,
+#urban_feather_help_widget .toggle-indicator {
+	color: #FFF;
+}
+
+#urban_feather_help_widget .postbox-header {
+	background: #ce0058;
+}
+
+#urban_feather_help_widget.postbox .handle-order-higher, #urban_feather_help_widget.postbox .handle-order-lower {
+	color: #FFF;
+}
